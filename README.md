@@ -11,13 +11,21 @@ ss7 network protocol set lisence
 ssh 공격은 이미 취약점보안이 다 되었으므로 악용하는 일이 없길바랍니다.
 불법으로 상대방의 서버를 공격하는 것은 전적으로 당신에게 책임이 있음을 밝힙니다.
 
+
 We hope that the ssh attack is already vulnerable to security and should not be exploited.
 It is entirely up to you to be responsible for unlawfully attacking our server(etc,security company , all comapny ).
+//Мы надеемся, что атака ssh уже уязвима для безопасности и не должна эксплуатироваться.
+Это полностью зависит от вас, чтобы нести ответственность за незаконную атаку на наш сервер (и т. Д., Охранная компания, все компании).//
 -------------------------------------------------------------------------------------
 ssh 서버에 공격을 할시에는 자신의 개인서버에 실험용도로만 사용해주시기바랍니다.
+
+
 When attacking ssh server, please use only experimental road on your own server.
+//При атаке сервера SSH используйте только экспериментальную дорогу на своем сервере.//
 -------------------------------------------------------------------------------------
 
 하루에 1개씩 올리도록 하겠습니다.
+
 I will upload one each day.
+Я буду загружать один каждый день.
 ---------------------------------
