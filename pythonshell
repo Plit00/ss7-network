@@ -1,0 +1,10 @@
+/*Use Python*/
+passcode("worldlisst.txt")
+passcode("w0rldlist.cpp")
+passcode("wordl1st.h")
+passcode("wordlst.py")
+/* passcode ==> shellcode using */
+
+//preivew//
+
+textline
